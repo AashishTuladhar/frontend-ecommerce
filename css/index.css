@@ -1,0 +1,7 @@
+.collapse.active {
+    display: block;
+}
+
+.active .t-name {
+    color: #24d278 !important;
+}
